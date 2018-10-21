@@ -1,6 +1,6 @@
-PracticeA - はじめてのあっとこーだー（Welcome to AtCoder）
-https://beta.atcoder.jp/contests/abs/tasks/practice_1
-ポイント：入力方法と出力方法を学ぶ
+#PracticeA - はじめてのあっとこーだー（Welcome to AtCoder）
+#https://beta.atcoder.jp/contests/abs/tasks/practice_1
+#ポイント：入力方法と出力方法を学ぶ
 # -*- coding: utf-8 -*-
 # 整数の入力
 a = int(input())
