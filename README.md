@@ -1,3 +1,3 @@
 - 本家 https://atcoder.jp/user/YukiMiyazaki   
 - 過去問 https://kenkoooo.com/atcoder/?user=YukiMiyazaki&kind=user
-- ブログ 
+- ブログ https://kusozakokyopro.wordpress.com/
