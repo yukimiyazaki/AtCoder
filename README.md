@@ -1,2 +1,3 @@
-https://atcoder.jp/user/YukiMiyazaki   
-https://kenkoooo.com/atcoder/?user=YukiMiyazaki&kind=user
+- 本家 https://atcoder.jp/user/YukiMiyazaki   
+- 過去問 https://kenkoooo.com/atcoder/?user=YukiMiyazaki&kind=user
+- ブログ 
